@@ -1,0 +1,10 @@
+01) What is CI/CD ?
+02) give me three tools of CI/CD ?
+03) What is Jenkins pipeline?
+04) What language is Jenkins based on?
+05) What scripting language is Jenkins pipeline syntax based on?
+06) What are the ways you can write pipeline in Jenkins?
+07) Create free style project with hello world
+08) Create jenkins pipeline for your repo and use script file (jenkinsfile) to write pipeline syntax with two stage with hello? 
+09) replace task (08) to run scripts inside jenkinsfile instead of add echo directly?
+10) repeate task (09) with private repo so you need credentials to can access repo ? 
